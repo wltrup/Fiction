@@ -16,7 +16,7 @@ A young Physics graduate student is the catalyst for a remarkable discovery, wit
 ##### (2010) [Showdown](https://github.com/wltrup/Fiction-Showdown)
 The story of an unusual duel, wild-west style.
 
-##### (2006) [Theory of Revolution](https://github.com/wltrup/Theory_of_Revolution)
+##### (2006) [Theory of Revolution](https://github.com/wltrup/Fiction-Theory_of_Revolution)
 An essay poking fun at creationism and intelligent design ideas.
 
 ##### (2001) [Walk On The Wild Side](https://github.com/wltrup/Fiction-Walk-On-The-Wild-Side)
